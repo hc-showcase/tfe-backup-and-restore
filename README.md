@@ -11,7 +11,7 @@
 ```
 bash tfe-backup.sh 
 ```
-The script will create a folder in the target S3 bucket as timestamp in the following format: 12-09-2020-08-53
+The script will create a folder in the target S3 bucket as timestamp in the following format: 12-09-2020-08-53
 
 ## Restore
 
